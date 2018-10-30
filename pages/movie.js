@@ -12,8 +12,8 @@ const Movie = props => (
   </div>
 );
 
-Movie.getInitialProps = async () => {
-  return { title: "lalalalalala" };
-};
+// Movie.getInitialProps = async () => {
+//   return { title: "lalalalalala" };
+// };
 
 export default withRouter(Movie);
