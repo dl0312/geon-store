@@ -16,5 +16,13 @@ export default () => (
         </li>
       </ul>
     </nav>
+    <style jsx>{`
+      ul {
+        display: flex;
+      }
+      ul li {
+        margin-right: 20px;
+      }
+    `}</style>
   </header>
 );
