@@ -6,7 +6,7 @@ const About = () => (
     <Head>
       <title>About | Geon Store</title>
     </Head>
-    <h1>This is about page</h1>
+    <h1>About</h1>
   </div>
 );
 
