@@ -6,7 +6,7 @@ const Movie = props => (
     <Head>
       <title>{props.router.query.title} | Geon Store</title>
     </Head>
-    {JSON.stringify(props)}
+    <h1>{props.router.query.title}</h1>
     <h1>movie</h1>
   </div>
 );
