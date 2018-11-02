@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>Nomad Store</title>
+          <title>Geon Store</title>
           <meta name="author" content={"Nicolas Serrano"} />
           <link
             href="//cdnjs.cloudflare.com/ajax/libs/antd/3.8.1/antd.min.css"

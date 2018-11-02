@@ -8,10 +8,10 @@ const { Content } = Layout;
 export default ({ data }) => (
   <>
     <Head>
-      <title>Home | Nomad Store</title>
+      <title>Home | Geon Store</title>
     </Head>
     <Header
-      centerColumn={<h4>Nomad Store</h4>}
+      centerColumn={<h4>Geon Store</h4>}
       rightColumn={<Button href="/cart" text="Cart" />}
       leftColumn={<Button href="/search" text="Search" />}
     />

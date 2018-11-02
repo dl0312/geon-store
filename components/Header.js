@@ -1,5 +1,6 @@
 import { Layout, Row, Col } from "antd";
 const { Header } = Layout;
+
 export default ({ centerColumn, rightColumn, leftColumn }) => (
   <Header
     theme="dark"
