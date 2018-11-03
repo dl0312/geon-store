@@ -1,9 +1,9 @@
 {
-  "name": "Geon-store",
+  "name": "geon-store",
   "version": "1.0.0",
   "description": "eCommerce PWA Built with NextJS and GraphCMS",
-  "repository": "https://github.com/Geoncoders/Geon-store",
-  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "repository": "https://github.com/dl0312/geon-store",
+  "author": "geonlee <leegun2003@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "antd": "3.8.1",
